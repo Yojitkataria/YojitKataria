@@ -1,69 +1,88 @@
-<h1 align="center">Hi 👋, I'm Yojit Kataria</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<div align="center">
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=yojitkataria&label=Profile%20views&color=0e75b6&style=flat" alt="yojitkataria" /> 
-</p>
+👋 Hey there, I'm **Yojit Kataria**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver+%7C+DSA+in+C%2B%2B;Open+Source+Learner" alt="Typing SVG" />
+
+</div>
+
+
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me   
 
-- 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
-- 👯 Looking to collaborate on **Data Structures & Algorithms (DSA)** and **Open Source**
-- 💬 Ask me about **MERN stack, React, Vue, GSAP, C++ and DSA**
+
+
+<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+~~~javascript
+const yojit = {
+  pronouns: "He/Him",
+  code: ["JavaScript", "C++", "Python", "TypeScript"],
+  askMeAbout: ["MERN Stack", "React", "GSAP", "DSA", "C++"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js", "Vue"],
+      css: ["Tailwind CSS", "Bootstrap", "GSAP"]
+    },
+    backEnd: {
+      js: ["Node.js", "Express.js"]
+    },
+    databases: ["MongoDB", "MySQL", "PostgreSQL"],
+    devOps: ["Docker", "Git", "GitHub Actions"],
+    tools: ["VS Code", "Postman", "Figma"]
+  },
+  currentFocus: "Building scalable MERN applications & mastering DSA",
+  funFact: "I treat life like a code review — always optimizing decisions 🚀"
+};
+~~~
+---
+
+## 💡 Currently
+
+- 🌱 Learning **MERN Stack & Advanced React**
+- 🧠 Practicing **DSA in C++** (LeetCode & Codeforces)
+- 👯 Looking to collaborate on **Open Source & DSA projects**
+- 💬 Ask me about **React, MERN, GSAP, C++ & Problem Solving**
 - 📫 Reach me at: **yojitkataria@gmail.com**
-- ⚡ Fun fact: *I treat life like a code review—always optimizing decisions*
 
 ---
 
-## 🌍 Open Source Contributions
+## 🎯 2026 Goals
 
-- ✅ **Merged Pull Request** – Documentation & Community Standards Improvement  
-  - 🔹 Repository: [narainkarthikv/sticky-memo](https://github.com/narainkarthikv/sticky-memo)  
-  - 🔹 Added `CHANGELOG.md` following **Keep a Changelog** & **Semantic Versioning**
-  - 🔹 Enhanced `README.md` with clearer usage & contribution guidelines
-  - 🔹 Added `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md`
-  - 🔹 Created GitHub **Issue** & **Pull Request** templates
-  - 🔹 PR: [#116 (Merged)](https://github.com/narainkarthikv/sticky-memo/pull/116)
+- ✅ Crack a **good SDE internship / role**
+- 🌍 Contribute to **Open Source**
+- 🧠 Master **System Design basics**
+- 🚀 Build **production-level MERN projects**
 
 ---
 
+## 🛠️ Tech Stack
 
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://x.com/yojitkataria" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/yojit-kataria/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/yojit" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/yojitkataria" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nodejs,express,mongodb,cpp,python,tailwind,bootstrap,git,github,vscode,postman,figma,docker" />
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yojitkataria&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Yojitkataria&theme=flat&row=1&margin-w=8"/>
+
+</div>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.* 🚀
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yojitkataria&theme=tokyo-night&hide_border=true" />
+</p>
+
+
+
