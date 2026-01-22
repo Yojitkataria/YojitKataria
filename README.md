@@ -1,7 +1,7 @@
 <div align="center">
 
 👋 Hey there, I'm **Yojit Kataria**
-
+ 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver+%7C+DSA+in+C%2B%2B;Open+Source+Learner" alt="Typing SVG" />
 
 </div>
